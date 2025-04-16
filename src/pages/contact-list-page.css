@@ -1,0 +1,13 @@
+.list-page {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.list-toolbar {
+    align-self: flex-end;
+}
+
+.list-toolbar a {
+    text-decoration: none;
+}

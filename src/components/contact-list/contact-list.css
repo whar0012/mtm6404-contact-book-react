@@ -1,0 +1,23 @@
+.contact-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.contact-list-item {
+  padding: 16px;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  border-radius: 4px;
+  text-transform: capitalize;
+}
+
+a.contact-list-item {
+  color: inherit;
+}
+
+.plus-button {
+  font-size: 32px;
+  color: blue;
+  font-weight: 600;
+}
